@@ -1,0 +1,7 @@
+augmented_images/
+.vscode
+backgrounds
+rdkit*
+drawings
+*.pyc
+__pycache__
